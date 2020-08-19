@@ -5,7 +5,7 @@
 
 ### Ctrump语言logo
 
-![img](../../Github/md/图片/640.png)
+![img](./Ctrump.PNG)
 
 ### Ctrump语言特性
 
